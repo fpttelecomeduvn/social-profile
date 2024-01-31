@@ -1,11 +1,7 @@
 
 // Mảng chứa các liên kết
 var websiteLinks = [
-    { name: "FPT Telecom Đà Nẵng", url: "https://fpttelecomdanang.com.vn" },
-    { name: "FPT Telecom Edu", url: "https://fpttelecom.edu.vn" },
-    { name: "Hoàng Minh Travel", url: "https://hoangminhtravel.com.vn" },
-    { name: "Hotline FPT Telecom", url: "https://hotlinefpttelecom.com" },
-    { name: "Kính Mát Nam", url: "https://kinhmatnam.net" }
+    { name: "Cửa nhựa Composite", url: "https://nhanghe.com/cua-nhua-composite/" },
 ];
 
 // Hàm để hiển thị các liên kết
